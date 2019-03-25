@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://caerooquad.audiocogs.org/sitemap.xml
